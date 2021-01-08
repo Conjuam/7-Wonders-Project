@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
+
+body {
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+#imageTable {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#imageTable img {
+    max-width: 240px;
+    max-height: 100%;
+}
+
+footer {
+    text-align: center;
+}
